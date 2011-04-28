@@ -17,3 +17,7 @@ Also available as a [native iOS app](http://jsconsole.com/app/) from the iTunes 
 # TODO
 
 - Permalink to session (trickier, server side required - can I do it without?)
+
+# Paul Chan TODO
+- Button for larger Console
+- Assert function for general testing
